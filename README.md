@@ -1,2 +1,2 @@
 # yield-autocompounder-algorand
-Notion URL: https://askishaancodes.notion.site/Algorand-Yield-Optimizer-d68c0766f0f04b808118ce431244d36b
+Notion URL: https://www.notion.so/datack/Algorand-Yield-Optimizer-0a07a04753f14cf5bd954d9b86451041
